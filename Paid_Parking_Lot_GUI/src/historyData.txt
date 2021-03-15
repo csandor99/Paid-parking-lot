@@ -1,0 +1,51 @@
+3;false;2;HR 90 XZL
+5;false;4;VS 45 NQZ
+6;false;5;GJ 64 VIR
+9;false;8;DB 49 BEC
+14;false;13;B 69 NFL
+16;false;15;SB 26 KGL
+17;false;16;BC 91 BAA
+19;false;18;NT 27 HEN
+21;false;20;TL 73 DDE
+25;false;24;BT 30 SXL
+26;false;25;GL 65 HZM
+27;false;26;GL 58 BZI
+28;false;27;BV 01 PRZ
+31;false;30;SB 88 NCF
+33;false;32;TM 34 VEK
+34;false;33;MM 08 ZPY
+36;false;35;TR 12 SLZ
+37;false;36;MM 05 RVE
+38;false;37;SM 24 ZNG
+40;false;39;BZ 21 PSK
+42;false;41;DJ 92 FYD
+43;false;42;BC 65 YAS
+44;false;43;BT 41 TUL
+45;false;44;OT 64 DNX
+46;false;45;MH 06 ZGL
+49;false;48;IF 06 KEJ
+50;false;49;BC 19 NZR
+2;false;50;IL 95 BMS
+1;false;51;MH 47 NLS
+11;false;52;HR 61 ZQV
+20;false;54;CL 42 FSF
+10;false;55;MM 49 XIG
+8;false;56;SJ 93 OCV
+35;false;57;SV 44 SBH
+39;false;58;CL 46 TAT
+15;false;59;BR 38 BPQ
+32;false;60;HR 06 OJE
+47;false;61;CV 60 OWF
+22;false;62;NT 54 YOT
+30;false;63;B 81 VVC
+13;false;64;IL 99 XLE
+18;false;65;BZ 78 KRH
+48;false;66;BV 70 ZWA
+7;false;67;SV 51 FAS
+12;false;68;BT 93 JSX
+29;false;69;BT 39 OMY
+41;false;70;BV 54 EHR
+4;true;-1;null
+24;true;-1;null
+23;true;-1;null
+71;16.80
